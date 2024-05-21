@@ -1,1 +1,1 @@
-praticando matplotlib do python
+recursos do matplotlib
